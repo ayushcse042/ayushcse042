@@ -18,8 +18,12 @@
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/html-5.png"/>&nbsp;
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>&nbsp;
+ <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/96/000000/javascript.png"/> &nbsp;
+ <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/96/4a90e2/mongodb.png"/>&nbsp;
+ <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+ 
   
 <p>
 
