@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=rishukr06&margin-w=15" /> </p>
+
 
  <h2 align="center"> ☕️ Let's Connect  </h2>
 <p align="center">
