@@ -23,6 +23,8 @@
  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/96/4a90e2/mongodb.png"/>&nbsp;
  <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+ <br/>
+ <img src="https://img.icons8.com/color/96/000000/flutter.png"/>
  
   
 <p>
